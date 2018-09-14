@@ -1,8 +1,8 @@
 """
 calculatepi.py
-Author: <your name here>
-Credit: <list sources used, if any>
-Assignment:
+Author: Jordan Gottlieb
+Credit: None
+Assignment: Calculate Pi
 
 Write and submit a Python program that computes an approximate value of π by calculating the following sum:
 
